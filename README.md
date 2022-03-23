@@ -15,7 +15,7 @@ $ git clone git@github.com:jimibue/rails-context-router6-starter.git <project_na
 - rename database in database.yml
 - bundle, create, migrate, seed db
 - cd client and run yarn
-- remove git remote
+- remove git remote (git remote rm origin to remove remote) (git remote -v to see what remote)
 - add new git remote
 
 TODO
